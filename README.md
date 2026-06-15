@@ -30,4 +30,14 @@
   </table>
 </div>
 
-![Metrics](/github-metrics.svg)
+-----
+
+<div align="center">
+  <table style="width:100%;">
+    <tr>
+      <td colspan="2" align="center">
+        <img style="width: 100%; height: 100%; object-fit: cover;" alt="Metrics" src="https://raw.githubusercontent.com/LingXi9374/LingXi9374/main/github-metrics.svg">
+      </td>
+    </tr>
+  </table>
+</div>
